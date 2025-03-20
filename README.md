@@ -1,6 +1,6 @@
 # T3RN Bridge Bot
-
-![image](https://github.com/user-attachments/assets/c26d0c64-bd8d-477e-9389-32036e5a8c7f) ![image](https://github.com/user-attachments/assets/31d8b73f-56c1-4161-b3e8-01f4b9bae6d8)
+![image](https://github.com/user-attachments/assets/31d8b73f-56c1-4161-b3e8-01f4b9bae6d8)
+![image](https://github.com/user-attachments/assets/c26d0c64-bd8d-477e-9389-32036e5a8c7f) 
 
 A powerful, user-friendly bot for automating transactions across T3RN bridge networks including Arbitrum Sepolia, Optimism Sepolia, and Base Sepolia. Features a rich terminal interface, custom delay settings, and IP-based access control.
 
