@@ -177,11 +177,10 @@ The `data_bridge` section in your config.json contains the transaction data need
    - The `Input Data` field contains the bridge data you need
 
 3. **From Wallet (Metamask)**:
+   
+![image](https://github.com/user-attachments/assets/464e63a4-ba23-4d5d-8f7d-94742f90cabb)
+
 ### Updating Bridge Data When Changing Amount
-
-![image](https://github.com/user-attachments/assets/7e6800f5-14b8-4832-a3c3-c01794631423)
-
-
 Each time you change the `bridge_amount` in your config.json, you must:
 
 1. Obtain new bridge data for each route using the steps above
