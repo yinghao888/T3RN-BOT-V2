@@ -172,6 +172,7 @@ The `data_bridge` section in your config.json contains the transaction data need
    - Copy the hex string (beginning with "0x...")
 
 2. **From Successful Transactions**:
+   ![image](https://github.com/user-attachments/assets/3ef7c049-76fa-43cb-924b-037db96ecb1c)
    - If you've previously completed a bridge transaction with the desired amount
    - Look up the transaction on the blockchain explorer
    - The `Input Data` field contains the bridge data you need
