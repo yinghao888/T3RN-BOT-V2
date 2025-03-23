@@ -172,12 +172,15 @@ The `data_bridge` section in your config.json contains the transaction data need
    - Copy the hex string (beginning with "0x...")
 
 2. **From Successful Transactions**:
-   ![image](https://github.com/user-attachments/assets/3ef7c049-76fa-43cb-924b-037db96ecb1c)
    - If you've previously completed a bridge transaction with the desired amount
    - Look up the transaction on the blockchain explorer
    - The `Input Data` field contains the bridge data you need
 
+3. **From Wallet (Metamask)**:
 ### Updating Bridge Data When Changing Amount
+
+![image](https://github.com/user-attachments/assets/7e6800f5-14b8-4832-a3c3-c01794631423)
+
 
 Each time you change the `bridge_amount` in your config.json, you must:
 
