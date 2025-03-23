@@ -44,9 +44,9 @@
   },
   "accounts": [
     {
-      "private_key": "YOUR_PRIVATE_KEY",
-      "address": "YOUR_ADDRESS",
-      "label": "Account Label"
+      "private_key": "d7fd0ba1626ea746d684c6725cdd9df45d15039485d21e3926e17386fcb10ecf",
+      "address": "0x47c309E6e043A1FaA3CF192bd21aD805501754bf",
+      "label": "1"
     }
   ],
   "settings": {
